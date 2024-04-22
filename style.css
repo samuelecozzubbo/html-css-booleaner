@@ -1,8 +1,37 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
 header{
     background-image: url(img/pattern.png);
     background-repeat: repeat;
+    background-color: rgba(0, 60, 255, 0.792);
+    margin-bottom: 16px;
+}
+
+.logo{
+    margin-left: 0;
+    width:200px;
+}
+
+
+.testoblu{
+    color: rgb(3, 108, 255);
 }
 
 .timimage{
+    margin-top: 16px;
     
+}
+
+.paragrafo{
+    margin: 16px;
+}
+
+.lista{
+    padding-left: 20px
+}
+
+.giallo{
+    background-color: yellow;
 }
