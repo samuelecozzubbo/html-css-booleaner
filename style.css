@@ -68,3 +68,29 @@ table{
 footer{
     margin-top: 16px;
 }
+
+.footerimg1{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.footerimg2{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+    margin-bottom: 16px;
+}
