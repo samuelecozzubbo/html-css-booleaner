@@ -1,0 +1,113 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+}
+header{
+    margin: 0;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-color: rgba(0, 60, 255, 0.792);
+    margin-bottom: 16px;
+    background-size: 15%;
+}
+
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.logo{
+    padding-top: 20px;
+    margin-left: 0;
+    width:200px;
+}
+
+main h1{
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+
+.testoblu{
+    color: rgb(3, 108, 255);
+}
+
+.timimage{
+    margin-top: 16px;
+    
+}
+
+.sottotitoli{
+    font-size: x-small;
+}
+
+.paragrafo{
+    margin-top: 16px;
+}
+
+.lista{
+    margin: 16px;
+    padding-left: 2px;
+}
+
+.testogiallo{
+    background-color: yellow;
+}
+
+thead{
+    background-color: rgb(0, 153, 255);
+}
+
+thead th{
+    color: white;
+}
+
+.rigablu{
+    background-color: rgb(168, 213, 253);
+}
+
+table{
+    margin-bottom: 16px;
+    border-collapse: collapse;
+   
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    width: 2%;
+}
+
+footer{
+    margin-top: 16px;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.footerimg1{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.footerimg2{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+    margin-bottom: 16px;
+}
