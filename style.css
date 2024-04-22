@@ -1,13 +1,18 @@
 *{
-    font-family: 'Times New Roman', Times, serif;
-    margin: 0;
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
 }
 header{
+    margin: 0;
     background-image: url(img/pattern.png);
     background-repeat: repeat;
     background-color: rgba(0, 60, 255, 0.792);
     margin-bottom: 16px;
     background-size: 15%;
+}
+
+main{
+    margin: 5px;
 }
 
 .logo{
@@ -62,11 +67,21 @@ thead th{
 
 table{
     margin-bottom: 16px;
+    border-collapse: collapse;
    
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    width: 2%;
 }
 
 footer{
     margin-top: 16px;
+    margin-left: 5px;
 }
 
 .footerimg1{
