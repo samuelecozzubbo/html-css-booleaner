@@ -1,15 +1,17 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    margin: auto;
+    margin: 0;
 }
 header{
     background-image: url(img/pattern.png);
     background-repeat: repeat;
     background-color: rgba(0, 60, 255, 0.792);
     margin-bottom: 16px;
+    background-size: 15%;
 }
 
 .logo{
+    padding-top: 20px;
     margin-left: 0;
     width:200px;
 }
@@ -60,6 +62,7 @@ thead th{
 
 table{
     margin-bottom: 16px;
+   
 }
 
 footer{
